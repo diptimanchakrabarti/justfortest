@@ -1,4 +1,5 @@
 
+
 # Creator is TCAT Dev Team#
 ## This Document describes How to create image and run the image code into Docker Environment and provide step by Step Screen about how to use tool ##
 
@@ -32,4 +33,12 @@
 ![](pics/DownloadLogLink.png?raw=true)
 10. __Clicking the link will show available logs and allows to download it__
 ![](pics/downloadlog.png?raw=true)
- 
+
+
+### Error After uploading a file with wrong tab name or missing Tab or required Attribute Name ###
+1. __In case sheet name is not correct__
+![](pics/error2.png?raw=true)
+2. __In case any sheet is missing__
+![](pics/error3.png?raw=true)
+3. __incase while required attribute names are not available__
+![](pics/mappingsheeterror1.png?raw=true)
